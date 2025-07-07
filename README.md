@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jimtrung?tab=repositories](https://github.com/jimtrung?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/jimtrung?tab=repositories](https://github.com/jimtrung?tab=repositories)
 
 - 📫 How to reach me: **nguyenhaitrung737@gmail.com**
 
