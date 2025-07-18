@@ -1,6 +1,6 @@
 <h3 align="center">A guy with passion</h3>
 
-- 🌱 I’m currently learning **Golang**, **React**, **DSA**
+- 🌱 I’m currently learning **Golang**, **React**, **DSA**.
 
 - 👨‍💻 All of my projects are available at: [https://github.com/jimtrung?tab=repositories](https://github.com/jimtrung?tab=repositories)
 
