@@ -1,4 +1,4 @@
-<h3 align="center">A guy with passion</h3>
+<h3 align="center">Just a guy with passion</h3>
 
 - 🌱 I’m currently learning **Golang**, **DSA**, **Java**.
 
