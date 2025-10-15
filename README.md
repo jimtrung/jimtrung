@@ -1,6 +1,6 @@
 <h3 align="center">Just a guy with passion</h3>
 
-- 🌱 I’m currently learning **Golang**, **DSA**, **Java**, **PostgresQL**.
+- 🌱 I’m currently learning **Golang**, **DSA**, **Java**, **PostgresQL**, **C#**.
 
 - 👨‍💻 All of my projects are available at: [https://github.com/jimtrung?tab=repositories](https://github.com/jimtrung?tab=repositories)
 
